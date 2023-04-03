@@ -1,0 +1,34 @@
+/**
+ * @name Big Balls
+ * @version 8.0
+ * @description A simple but highly customizable theme, now sugar free!
+ * @author Spectra
+ * @invite PZdnCVD
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ * @BDEditor Neutron
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One:wght@100;300;400;500;700&display=swap');
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+
+:root {
+  --backgroundImage: url('https://cdn.discordapp.com/attachments/1017191007294607360/1092334695892660224/image.png');
+  --backgroundColor: #2D1C15;
+  --backgroundSize: cover;
+  --backgroundPosition: bottom right;
+  --backgroundRepeat: repeat;
+  --backgroundBlur: 0px;
+  --backgroundOpacity: 0.35;
+  --homeImage: url('https://cdn.discordapp.com/attachments/1017191007294607360/1092265550962491452/artworks-pVw0KEU9bLTRYzCG-IlyYEw-t500x500.jpg');
+  --homeImageSize: cover;
+  --themeColor1: #CF9C75;
+  --themeColor2: #DCCBA3;
+  --customFont: Lilita One;
+  --backgroundCode: rgb(77,119,123,0.7);
+  --backgroundName: rgb(4,18,20,0.6);
+}
+
+/* Any custom CSS below here */
+
+
